@@ -1,0 +1,9 @@
+What has Changed?:
+the "ls > file_name" command has created and named a new file which contains the names of all the other files.
+
+I think that the ">" from the command combined with ls creates a file that reads what would be listed and then copies
+said file names into the file itself.
+
+the git status command tells me that the file is new and a change ready to be commited.
+
+The git diff command shows what has changed in the file.
